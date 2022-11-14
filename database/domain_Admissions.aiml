@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+	<category>
+      <pattern>FEE STRUCTURE </pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the fee structure for BTech : https://collegedunia.com/college/28508-jntuh-college-of-engineering-jagtial-jntuhcej-karimnagar/courses-fees</li>
+			<li>Please goto this link to view the fee structure required for BTech :https://collegedunia.com/college/28508-jntuh-college-of-engineering-jagtial-jntuhcej-karimnagar/courses-fees</li>
+			<li>Have a look over here to view the fee structure for BTech : https://collegedunia.com/college/28508-jntuh-college-of-engineering-jagtial-jntuhcej-karimnagar/courses-fees</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>ELIGIBILITY CRITERIA ADMISSION FOR BTECH</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the eligibility criteria to BTech Admissions :https://collegedunia.com/college/28508-jntuh-college-of-engineering-jagtial-jntuhcej-karimnagar/cutoff</li>
+			<li>Please goto this link to view the eligibility criteria to BTech Admissions :https://collegedunia.com/college/28508-jntuh-college-of-engineering-jagtial-jntuhcej-karimnagar/cutoff</li>
+			<li>Have a look over here to view the eligibility criteria to BTech Admissions : https://collegedunia.com/college/28508-jntuh-college-of-engineering-jagtial-jntuhcej-karimnagar/cutoff</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>FEE STRUCTURE FOR STUDENTS</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the fee structure for New Admissions : https://jntuhcej.ac.in/fee_structure</li>
+			<li>Please goto this link to view the fee structure required for New Admissions : https://jntuhcej.ac.in/fee_structure</li>
+			<li>Have a look over here to view the fee structure for New Admissions : https://jntuhcej.ac.in/fee_structure</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>ADMISSION NOTIFICATION</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the admission notifications : https://jntuhcej.ac.in/aboutuniversity</li>
+			<li>Please goto this link to view the admission notifications : https://jntuhcej.ac.in/aboutuniversity</li>
+			<li>Have a look over here to view the admission notifications : https://jntuhcej.ac.in/aboutuniversity</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>RESEARCH DEVRLOPMENT CELL</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the details regarding RandD Cell: https://jntuhcej.ac.in/researches</li>
+			<li>Please goto this link to view the details regarding RandD Cell : https://jntuhcej.ac.in/researches</li>
+			<li>Have a look over here to view the details regarding RandD Cell : https://jntuhcej.ac.in/researches</li>
+                        <li>Have a look over here to view the details regarding RandD Cell : https://jntuhcej.ac.in/researches</li>
+		</random>
+	  </template>
+    </category>
+	</aiml>
+	
+	
+	
+	

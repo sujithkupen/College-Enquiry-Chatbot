@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+
+<meta name="language" content="en"/>
+
+	<category>
+      <pattern>HIGHEST PACKAGE LAST YEAR</pattern>
+      <template>
+		<random>
+			<li>IBM offered the highest package of 11 LPA last year</li>
+			<li>The highest package of 11 LPA was offered by IBM last year</li>
+			<li>Maximum package of last year was 11 LPA which was offered by IBM</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>AVERAGE PLACEMENT RATE</pattern>
+      <template>
+		<random>
+			<li>JNTUH UCEJ has a average of 80% placement</li>
+			<li>Average placement of last 10 years is around 80%</li>
+			<li>JNTUH UCEJ has consistently achieved an average of around 80% placement for the last 10 years</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>PLACEMENTS 2020 BATCH</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the PLACEMENTS of 2020 Batch : https://jntuhcej.ac.in/uploads/placements/2019-20.pdf</li>
+			<li>Please goto this link to view PLACEMENTS of 2020 Batch : https://jntuhcej.ac.in/uploads/placements/2019-20.pdf</li>
+			<li>Have a look over here to know more about PLACEMENTS of 2020 Batch : https://jntuhcej.ac.in/uploads/placements/2019-20.pdf</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>PLACEMENTS 2021 BATCH</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the PLACEMENTS of 2021 Batch : https://jntuhcej.ac.in/uploads/placements/2020-21.pdf</li>
+			<li>Please goto this link to view PLACEMENTS of 2021 Batch : https://jntuhcej.ac.in/uploads/placements/2020-21.pdf</li>
+			<li>Have a look over here to know more about PLACEMENTS of 2021 Batch : https://jntuhcej.ac.in/uploads/placements/2020-21.pdf</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>PLACEMENTS 2022 BATCH</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the PLACEMENTS of 2022 Batch : https://jntuhcej.ac.in/uploads/placements/2021-22.pdf</li>
+			<li>Please goto this link to view PLACEMENTS of 2022 Batch : https://jntuhcej.ac.in/uploads/placements/2021-22.pdf</li>
+			<li>Have a look over here to know more about PLACEMENTS of 2022 Batch : https://jntuhcej.ac.in/uploads/placements/2021-22.pdf</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>PROCEDURE TRAINING PLACEMENT RECRUITMENT</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the procedure followed by T and P department : https://jntuhcej.ac.in/uploads/placements/2019-20.pdf</li>
+			<li>Please goto this link to view the procedure followed by T and P department : https://jntuhcej.ac.in/uploads/placements/2019-20.pdf</li>
+			<li>Have a look over here to know more about the procedure followed by T and P department : https://jntuhcej.ac.in/uploads/placements/2019-20.pdf</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>TRAINING PLACEMENT</pattern>
+      <template>
+		<random>
+			<li>Click on this link to know more about T and P department : https://jntuhcej.ac.in/train_placement_cell</li>
+			<li>Please goto this link to know more about T and P department : https://jntuhcej.ac.in/train_placement_cell</li>
+			<li>Have a look over here to know more about T and P department : https://jntuhcej.ac.in/train_placement_cell</li>
+		</random>
+	  </template>
+    </category>
+	
+	<category>
+      <pattern>PLACEMENT STATISTICS</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the placement statistics : https://jntuhcej.ac.in/train_placement_cell</li>
+			<li>Please goto this link to view placement statistics : https://jntuhcej.ac.in/train_placement_cell</li>
+			<li>Have a look over here to know more about the placement statistics : https://jntuhcej.ac.in/train_placement_cell</li>
+		</random>
+	  </template>
+    </category>
+	<category>
+      <pattern>TPO</pattern>
+      <template>
+			Dr.S.Suresh Kumar Training and Placement Officer Email: tpo@jntuhcej.ac.in , cej.placementcell@gmail.com , cejtpo@jntuh.ac.in Phone: 6302502213
+	  </template>
+    </category>
+	<category>
+      <pattern>TRAINING AND PLACEMENT OFFICER</pattern>
+      <template>
+			Dr.S.Suresh Kumar Training and Placement Officer Email: tpo@jntuhcej.ac.in , cej.placementcell@gmail.com , cejtpo@jntuh.ac.in Phone: 6302502213
+	  </template>
+    </category>
+	<category>
+      <pattern>NPTEL</pattern>
+      <template>
+		<random>
+			<li>Click on this link to view the NPTEL Portal: https://jntuhcej.ac.in/swayam/home.html</li>
+			<li>Please goto this link to view the NPTEL Portal : https://jntuhcej.ac.in/swayam/home.html</li>
+			<li>Have a look over here to view the NPTEL Portal : https://jntuhcej.ac.in/swayam/home.html</li>
+		</random>
+	  </template>
+    </category>
+	</aiml>
+	
+	
