@@ -17,9 +17,9 @@
 		<pattern>COE</pattern>
 		<template>
 			<random>
-				<li>Please goto this link to get details of COE: https://jntuhcej.ac.in/examination_branch</li>
-				<li>Have a look over here to get details of COE: https://jntuhcej.ac.in/examination_branch</li>
-				<li>Click on this link to get details of COE: https://jntuhcej.ac.in/examination_branch</li>
+				<li>Please goto this link to get details of COE: http://jntuhcej.ac.in/examination_branch</li>
+				<li>Have a look over here to get details of COE: http://jntuhcej.ac.in/examination_branch</li>
+				<li>Click on this link to get details of COE: http://jntuhcej.ac.in/examination_branch</li>
 			</random>
 		</template>
 	</category>
@@ -27,9 +27,9 @@
 		<pattern>EXAMINATION COMMITTEE</pattern>
 		<template>
 			<random>
-				<li>Please goto this link to get the details about C.O.E : https://jntuhcej.ac.in/examination_branch</li>
-				<li>Have a look over here to get the details about C.O.E : https://jntuhcej.ac.in/examination_branch</li>
-				<li>Click on this link to get the details about C.O.E : https://jntuhcej.ac.in/examination_branch</li>
+				<li>Please goto this link to get the details about C.O.E : http://jntuhcej.ac.in/examination_branch</li>
+				<li>Have a look over here to get the details about C.O.E : http://jntuhcej.ac.in/examination_branch</li>
+				<li>Click on this link to get the details about C.O.E : http://jntuhcej.ac.in/examination_branch</li>
 			</random>
 		</template>
 	</category>
@@ -37,9 +37,9 @@
 		<pattern>LINK RESULTS TIMETABLES</pattern>
 		<template>
 			<random>
-				<li>Please goto this link : https://results.jntuh.ac.in/</li>
-				<li>Have a look over here : https://results.jntuh.ac.in/</li>
-				<li>Click on this link : https://results.jntuh.ac.in/</li>
+				<li>Please goto this link : http://results.jntuh.ac.in/</li>
+				<li>Have a look over here : http://results.jntuh.ac.in/</li>
+				<li>Click on this link : http://results.jntuh.ac.in/</li>
 			</random>
 		</template>
 	</category>
