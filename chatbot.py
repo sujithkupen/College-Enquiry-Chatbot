@@ -267,11 +267,11 @@ def conv_mapping(inp):
 
 def providePersonalInfo(inp, idn):
     p_inp = preprocess(inp).split(' ')
-    if((('CGPA') in p_inp)):
+    if((('CGPA') in p_inp) or (('CGPA?') in p_inp)):
         return findGPA(idn)
-    elif((('GPA' in p_inp) or ('SGPA' in p_inp)) and (('ALL' in p_inp) or ('EVERY' in p_inp) or ('EACH' in p_inp))):
+    elif((('GPA' in p_inp) or ('GPA?' in p_inp) or ('SGPA' in p_inp) or ('SGPA?' in p_inp)) and (('ALL' in p_inp) or ('EVERY' in p_inp) or ('EACH' in p_inp))):
         return displayAllGPA(idn)
-    elif((('GPA' in p_inp) or ('SGPA' in p_inp)) and (('SEMESTER' in p_inp) or ('SEM' in p_inp)) and ('CURRENT' not in p_inp)):
+    elif((('GPA' in p_inp) or ('GPA?' in p_inp) or ('SGPA' in p_inp) or ('SGPA?' in p_inp)) and (('SEMESTER' in p_inp) or ('SEM' in p_inp)) and ('CURRENT' not in p_inp)):
         inp = conv_mapping(inp)
         match = re.search('\\d', inp)
         if(match!=None):
