@@ -147,6 +147,168 @@ http://jntuhcej.ac.in/web/syllabus/25_R19M.TECH_ELECTRICALPOWERSYSTEMS_ISem.pdf
     </template>
   </category>
   <category>
+    <pattern>RESEARCH AND DEVELOPMENT COORDINATOR</pattern>
+    <template>Dr.B.Kranthi Kiran
+        Professor of CSE Dept. and Coordinator, Research and Academics
+        EMAIL: kranthikiran9@gmail.com</template>
+  </category>
+  <category>
+    <pattern>ABOUT JNTUHUCEJ</pattern>
+    <template>JNTUH University College of Engineering Jagtial (JNTUHUCEJ) was established in the year 2007 as a constituent college of Jawaharlal Nehru Technological University Hyderabad.
+        Accredited with NAAC A+ Grade and NBA (Accredited Programmes - UG : EEE, ME, CSE )
+        JNTUHCEJ started functioning with five Under Graduate Programs viz., EEE, ECE, CSE, IT AND ME 
+        Students take admissions to UG programs through EAMCET and ECET.
+        And faculty of JNTUHUCEJ has highly qualified and about 90% of them possesses Ph.D degree.
+    </template>
+
+</category>
+<category>
+    <pattern>WHAT COURSES OFFERED IN JNTUHUCEJ</pattern>
+    <template>The courses that are available is B.tech and M.tech</template>
+</category>
+<category>
+    <pattern> BRANCHES IN BTECH</pattern>
+    <template>Branches in JNTUHUCEJ:<br/>CSE,<br/>EEE,<br/>ME,<br/>ECE,<br/>IT,<br/></template>
+</category>
+<category>
+    <pattern>HOSTEL FACILITIES</pattern>
+    <template>
+            Yes, hostel facility is avaliable for both Boys and Girls
+            We have 4 Hostel blocks (02 for Boys and 2 for Girls).
+             The Blocks are well lit, highly ventilated and have drinking water on each floor. 
+            In the Hostels, students are accommodated in a room with a cot, study table and spacious cupboard.
+    </template>
+</category>
+<category>
+    <pattern>ABOUT GIRLS HOSTEL</pattern>
+    <template>Sharada Girls Hostel (Old) with 124 rooms (for II, III and IV B.Tech. 
+        Students and Saraswathi Girls Hostel (New) with 70 rooms (for I. B.Tech)</template>
+</category>
+<category>
+    <pattern>ABOUT BOYS HOSTEL</pattern>
+    <template>Godavari Boys Hostel (Old) with 150 rooms (for II, III and IV B. Tech. Studentsand M. Tech. Students) Krishna Boys Hostel (New) with 68 rooms (for I. B.Tech)</template>
+</category>
+<category>
+    <pattern>SEMINAR HALL IN JNTUHUCEJ</pattern>
+    <template>Two Auditoriums and four Seminar halls are available in the campus:
+
+        JN Auditorium in the Administrative block
+        Open Air Auditorium beside Academic Block-II
+        Seminar Hall in Academic Block-I
+        Seminar Hall in Academic Block-II
+        Seminar Hall of Dept. of ME in Academic Block-II
+        Seminar Hall of Dept. of EEE in Academic Block-II
+        </template>
+</category>
+<category>
+    <pattern>24/7 COMPUTER CENTER
+    </pattern>
+    <template>A centralized computer center is available in the administrative block. This air-conditioned center is equipped with all facilities like audio, video etc.</template>
+</category>
+<category>
+    <pattern>SPORTS GROUND IS AVAILABLE</pattern>
+    <template>yes,Cricket ground with 180M X80M Area,
+        Volleyball Courts ground with 25M X 50M Area,
+        Basketball Court ground with 40M X 25M Area,            
+    </template>
+</category>
+<category>
+    <pattern>AVAILABILITY OF DISPENSARY</pattern>
+    <template>Health Centre is headed by qualified doctors with supporting staff for the medical needs of the students and staff.
+         An ambulance is made available to shift patients to nearby hospitals in case of the emergencies.
+    </template>
+</category>
+<category>
+    <pattern>IS CANTEEN IS AVAILABLE IN JNTUHUCEJ</pattern>
+    <template>The college is having canteen facility which provides with reasonable rates to cater the needs of staff, students and visitors of the College.</template>
+</category>
+<category>
+    <pattern>BANK AVAILABILITY IN JNTUHUCEJ</pattern>
+    <template>SBI bank is available for Staff/Students in the campus.
+         Students can pay College tuition and Examination fees through the bank.
+         SBI operates one ATM in the campus</template>
+</category>
+<category>
+    <pattern>NSS COORDINATOR IN JNTUHUCEJ</pattern>
+    <template>Mr. S.Praveen Kumar
+        Asst. Professor , NSS Co-ordinator
+    EMAIL:- cejnss@jntuh.ac.in 
+    Phone :8985898501	</template>
+</category>
+<category>
+    <pattern>NSS EVENTS</pattern>
+    <template>You can see our NSS EVETS by following is Link : http://jntuhcej.ac.in/nss_events</template>
+</category>
+<category>
+    <pattern>RESEARCH AND DEVELOPMENT COORDINATOR</pattern>
+    <template>Dr.B.Kranthi Kiran
+        Professor of CSE Dept. and Coordinator, Research and Academics
+        EMAIL: kranthikiran9@gmail.com</template>
+</category>
+<category>
+    <pattern>RESEARCH AND DEVELOPMENT EVENTS</pattern>
+    <template>You can see our research and development Events by following is Link: http://jntuhcej.ac.in/r_and_cell_events</template>
+</category>
+<category>
+    <pattern>STUDENT CLUBS</pattern>
+    <template> Technical club, Music club, Arts club, Dance club, Toastmasters club
+        These clubs help the students to increase learning capabilities, minimize stage fear, improve teamwork and organizational skills.
+    </template>
+</category>
+<category>
+    <pattern>CODING EVENTS</pattern>
+    <template>Every year coding events are conducted by our college and it is 36 hours event</template>
+</category>
+<category>
+    <pattern>ABOUT CSE DEPARTMENT</pattern>
+    <template>Computer Science AND Engineering (Accredited by NBA - UG : CSE )
+        The Department of CSE was established in the year 2007 with B.Tech AND M.Tech .The faculty in the department consists of Six Professors, two Associate Professors and five Assistant Professors.
+        HOD: Dr. P Sammulal
+        PhD in CSE
+        Professor and Head of the Department
+    </template>
+</category>
+<category>
+    <pattern>HOD OF CSE</pattern>
+    <template>Dr. Sammulal Porika is currently working as a Professor AND Head of CSE at JNTUH College of Engineering Jagtial
+        He joined to JNTUH service in the year 2006. He has 18 years of Teaching experience.
+    </template>
+</category>
+<category>
+    <pattern>FACULTY OF CSE DEPATMENT</pattern>
+    <template> Dr. P. Sammulal Professor Head of the Department,
+        Dr. D. Ramesh Professor of CSE and PRINCIPAL,
+        Dr. T. Venugopal Professor of CSE  and Vice Principal,
+        Dr. B.Kranthi Kiran Professor,
+        Dr. S. Viswanadha Raju Professor,
+        Dr. B. Sateesh Kumar Professor,
+        Dr. M.Uday Kumar Associate Professor,
+        Dr. P.Sreenivasa Rao Associate Professor,
+        O. Raju Assistant Professor,
+        T. Venkatesh Assistant Professor, 
+        A. Anusha Assistant Professor.
+        			</template>
+</category>
+<category>
+    <pattern>ABOUT IT DEPARTMENT</pattern>
+    <template>HOD of IT Dept. Dr. S. Suresh Kumar Assistant professor  Information Technology department has 1 Professor, 2 Assistant Professors and 9 Assistant Professor</template>
+</category>
+<category>
+    <pattern>ABOUT ECE DEPARTMENT</pattern>
+    <template>HOD of ECE Dept. Dr. Dhiraj Sunehar Professor and ECE department has 2 Professor, 1 Assistant Professors and 2 Associate Professor</template>
+</category>
+<category>
+    <pattern>ABOUT EEE DEPARTMENT</pattern>
+    <template>Electrical and Electronics Engineering (Accredited by NBA - UG : EEE )
+        HOD of EEE Dept. Dr.K.Srinivas Associate Professor and EEE department has 1 Professor, 3 Assistant Professors and 1 Associate Professor
+    </template>
+</category>
+<category>
+    <pattern>ABOUT MECH DEPARTMENT</pattern>
+    <template>Mechanical Engineering (Accredited by NBA - UG : ME )
+        HOD of ME Dept. Dr K.Vasantha Kumar Associate Professor and ME department has 2 Assistant Professors and 2 Associate Professor</template>
+</category>
+  <category>
     <pattern>SYLLABUS ES I FRIST I SEM</pattern>
     <template> You can get the SYLLABUS OF M.TECH ES from the link given below 
 http://jntuhcej.ac.in/web/syllabus/26_R19M.TECHEngineeringDesignISem.pdf</template>

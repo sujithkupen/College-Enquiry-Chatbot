@@ -85,6 +85,12 @@
 		</template>
 	</category>
 	<category>
+		<pattern>PRINCIPAL</pattern>
+		<template>
+			Dr.D.Ramesh, Professor of CSE is the principal of JNTUHUCEJ. 
+		</template>
+	</category>
+	<category>
 		<pattern>TPO</pattern>
 		<template>
 			Dr.S.Suresh Kumar Training and Placement Officer Email: tpo@jntuhcej.ac.in , cej.placementcell@gmail.com , cejtpo@jntuh.ac.in Phone: 6302502213

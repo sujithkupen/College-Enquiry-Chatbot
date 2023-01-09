@@ -467,13 +467,6 @@ Hm getting late.
 </category>
 
 <category>
-<pattern>* PRINCIPAL</pattern>
-<template>
-Hyperlink to the principal.
-</template>
-</category>
-
-<category>
 <pattern>* RSW</pattern>
 <template>
 <srai>WHAT IS RSW</srai>
