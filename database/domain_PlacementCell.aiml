@@ -91,6 +91,12 @@
 		</template>
 	</category>
 	<category>
+		<pattern>VICEPRINCIPAL</pattern>
+		<template>
+			Dr.T.Venugopal, Professor of CSE is the vice principal of JNTUHUCEJ. 
+		</template>
+	</category>
+	<category>
 		<pattern>TPO</pattern>
 		<template>
 			Dr.S.Suresh Kumar Training and Placement Officer Email: tpo@jntuhcej.ac.in , cej.placementcell@gmail.com , cejtpo@jntuh.ac.in Phone: 6302502213
